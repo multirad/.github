@@ -6,6 +6,15 @@ The MultiRad platform of the Univ. Grenoble Alpes is a powerful tool to remotely
 
 The initial MultiRad consortium is an international scientific partnership of 6 universities from France, Brazil, Spain, and United Kingdom within the disciplines of computer engineering, computer science, and physics. The scientific interactions are based on the rich complementary of the consortium composed of Université Grenoble Alpes (UGA) contributing with accelerated radiation testing aspects of computing systems, Loughborough University (LU, United Kingdom) with virtual platforms for simulating multicore systems, Universidad de Alicante (UA, Spain) with software-level radiation-hardening techniques, Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS, Brazil) with design of multicore systems, Universidade Federal do Rio Grande do Sul (UFRGS, Brazil) with hardware design in programmable logic for radiation-hardened applications, and Universidade Federal de Santa Maria (UFSM, Brazil) with processor design for aerospace applications.
 
+## Acknowledgments
+
+UGA/TIMA's MultiRad platform is supported in part by: LPSC’s GENESIS platform; ILL’s TENIS instrument; French national research agency via PIA and France-2030 programs (IRT Nanoelec, ANR-10-AIRT-0005, LabEx PERSYVAL-Lab, ANR-11-LABX-0025-01, ANR-15-IDEX-0002). MultiRad project (2020-2023) was also partially supported by Région Auvergne-Rhône-Alpes's international ambition pack (PAI).
+
+From 2026, if you used MultiRad codes, method, and/or platform, mention and cite in publications/presentations these three items:
+   - This work was supported in part by: UGA/TIMA's MultiRad platform ([ref1][ref2]); LPSC’s GENESIS platform; ILL’s TENIS instrument; French national research agency via PIA and France-2030 programs (IRT Nanoelec, ANR-10-AIRT-0005).
+   - [ref1] L. H. LAURINI; L. OST; S. CUENCA-ASENSI; B. CHEYMOL; E. ATUKPOR; R. POSSAMAI BASTOS; [MultiRad: Accelerated Radiation Testing Method for Processor-based Computing Systems](https://iopscience.iop.org/article/10.1088/1748-0221/21/06/P06006). Journal of Instrumentation, JINST, 2026.
+   - [ref2] MultiRad, "MultiRad Platform for Remotely Testing and Preliminarily Assessing Computing Systems under Neutron Radiation Effects". October 2026. [Online]. Available: https://github.com/multirad.
+
 ## Information
 
 - General coordination:
@@ -89,15 +98,6 @@ The initial MultiRad consortium is an international scientific partnership of 6 
     - 2017-2021: RadML1
     - 2012-2028: [PERSYVAL-Lab](https://persyval-lab.org/en)
     - 2012-2030: [Nanoelec](https://irtnanoelec.fr/en/)
-
-## Acknowledgments
-
-UGA/TIMA's MultiRad platform is supported in part by: LPSC’s GENESIS platform; ILL’s TENIS instrument; French national research agency via PIA and France-2030 programs (IRT Nanoelec, ANR-10-AIRT-0005, LabEx PERSYVAL-Lab, ANR-11-LABX-0025-01, ANR-15-IDEX-0002). MultiRad project (2020-2023) was also partially supported by Région Auvergne-Rhône-Alpes's international ambition pack (PAI).
-
-From 2026, if you used MultiRad codes, method, and/or platform, mention and cite in publications/presentations these three items:
-   - This work was supported in part by: UGA/TIMA's MultiRad platform ([ref1][ref2]); LPSC’s GENESIS platform; ILL’s TENIS instrument; French national research agency via PIA and France-2030 programs (IRT Nanoelec, ANR-10-AIRT-0005).
-   - [ref1] L. H. LAURINI; L. OST; S. CUENCA-ASENSI; B. CHEYMOL; E. ATUKPOR; R. POSSAMAI BASTOS; MultiRad: Accelerated Radiation Testing Method for Processor-based Computing Systems. Journal of Instrumentation, JINST, 2026.
-   - [ref2] MultiRad, "MultiRad Platform for Remotely Testing and Preliminarily Assessing Computing Systems under Neutron Radiation Effects". May 2026. [Online]. Available: https://gricad-gitlab.univ-grenoble-alpes.fr/multirad.
 
 ## MultiRad platform scientific production
 
